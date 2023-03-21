@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tukka", "tukka\tukka.csproj", "{B7A74F22-D9FA-40A7-99C8-07272E461849}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7A74F22-D9FA-40A7-99C8-07272E461849}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7A74F22-D9FA-40A7-99C8-07272E461849}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7A74F22-D9FA-40A7-99C8-07272E461849}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7A74F22-D9FA-40A7-99C8-07272E461849}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB40F699-E305-4E42-86EA-8BDF4724C9E7}
+	EndGlobalSection
+EndGlobal
